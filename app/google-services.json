@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "341251165584",
+    "project_id": "my-vision-ocr-1619793186015",
+    "storage_bucket": "my-vision-ocr-1619793186015.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341251165584:android:4415adf9dfef3f64e83715",
+        "android_client_info": {
+          "package_name": "research.mxy.androidocr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341251165584-7aggrvm7f33mccip0mc7008lh2fegh5j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "research.mxy.androidocr",
+            "certificate_hash": "ea38f4cff4e57a98bbe829d9f65efe128da99543"
+          }
+        },
+        {
+          "client_id": "341251165584-fjbktv1v0i4c11qd7bn378sn0dsokp5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoRystfXwqbFvj3Dznnq-sPgzkSBD2nmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341251165584-fjbktv1v0i4c11qd7bn378sn0dsokp5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
