@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">My Android OCR</string>
+    <string name="buttonGSO">Sign in with Google</string>
+    <string name="buttonEmailSO">Sign in with Email</string>
+    <string name="textLogin">Sign in to continue</string>
+
+    <string name="buttonSignOut">Sign Out</string>
+    <string name="buttonFromCamera">Take photo</string>
+    <string name="buttonFromGallery">Choose from gallery</string>
+    <string name="buttonStart">Scan text</string>
+    <string name="imageViewDescription"> </string>
+
+
+    <string name="buttonCopy">Copy all</string>
+    <string name="OCRResult">OCR Result</string>
 </resources>
