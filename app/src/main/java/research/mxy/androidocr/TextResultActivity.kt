@@ -63,7 +63,7 @@ class TextResultActivity : AppCompatActivity() {
     private fun copyToClipboard() {
         var clipboard: ClipboardManager =
             getSystemService(Context.CLIPBOARD_SERVICE) as ClipboardManager
-        var clip: ClipData = ClipData.newPlainText("result", receivedResult)
+        var clip: ClipData = ClipData.newPlainText("result", findViewById<TextInputEditText>(R.id.textResult).text.toString())
         clipboard.setPrimaryClip(clip)
     }
 
