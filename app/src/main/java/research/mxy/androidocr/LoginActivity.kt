@@ -64,7 +64,8 @@ class LoginActivity : AppCompatActivity() {
 
     private fun configureGoogleSignIn() {
         mGoogleSignInOptions = GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
-            .requestIdToken("341251165584-fjbktv1v0i4c11qd7bn378sn0dsokp5h.apps.googleusercontent.com")
+                //Replace with your own RequestIdToken
+            .requestIdToken("yourRequestIdTokenHere")
             .requestEmail()
             .build()
         mGoogleSignInClient = GoogleSignIn.getClient(this, mGoogleSignInOptions)
